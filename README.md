@@ -1,11 +1,11 @@
 # Drum-Kit-WebDev
-A simple web development project that lets you play the drums <br>
+A simple responsive web development project that lets you play the drums <br>
 You can either click the button to complete the action or press the appropriate keyboard key.
 <br > Unleash your druming skill and rock this world!! 
 
 
 # At start-up
-<img src="" width="1000">
+<img src="https://github.com/Kumar-Saurav02/Drum-Kit-WebDev/assets/105942875/0a3037b2-2a4d-4042-b0f5-fa653da9e757" width="1000">
 
 # Tools used
 <ol>
